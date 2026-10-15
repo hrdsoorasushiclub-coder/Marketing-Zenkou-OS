@@ -1,0 +1,16 @@
+{
+  "name": "Zenkou Marketing OS",
+  "short_name": "Zenkou OS",
+  "description": "Handbook, SOP, job harian, dan ruang kerja marketing per brand.",
+  "start_url": "/#/jobs",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14231f",
+  "theme_color": "#14231f",
+  "lang": "id",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
